@@ -1,3 +1,6 @@
+def production_func():
+    pass
+
 def fetch_from_api():
     pass
 
