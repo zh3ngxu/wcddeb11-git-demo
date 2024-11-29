@@ -1,3 +1,6 @@
+def logging():
+    pass
+
 def production_func():
     pass
 
@@ -8,4 +11,7 @@ def read_csv():
     pass
 
 def crazy_new_feature_func():
+    pass
+
+def test_api_endpoint():
     pass
